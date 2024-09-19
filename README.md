@@ -10,7 +10,7 @@ List of useful and super-cool Cisco tools and libraries
 
 
 ## SDKs
-* [Cisco ISE SDK](https://github.com/CiscoISE/ciscoisesdk) - Cisco ISE SDK by Cisco
+* [Cisco ISE SDK](https://github.com/CiscoISE/ciscoisesdk) - Official Cisco ISE SDK
 
 
 ## Data
