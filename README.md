@@ -1,4 +1,4 @@
-# awesome-cisco
+# Awesome Cisco
 List of useful and super-cool Cisco tools and libraries
 
 ## Tools
