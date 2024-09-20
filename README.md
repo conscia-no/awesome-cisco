@@ -19,3 +19,6 @@ List of useful and super-cool Cisco tools and libraries
 
 ## Data
 * [cisco-mibs](https://github.com/cisco/cisco-mibs) - Cisco MIBS
+
+## AI & ML
+* [Cisco AI](https://developer.cisco.com/site/ai/) - Landing page for all of Ciscos AI initiatives with labs, videos, whitepapers etc.
