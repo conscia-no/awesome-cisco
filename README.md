@@ -9,6 +9,7 @@ List of useful and super-cool Cisco tools and libraries
 * [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Config Parser
 * [ccat](https://github.com/frostbits-security/ccat) - Config Analysis Tool
 * [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) - Official Cisco DNA Center SDK
+* [Nexus-as-Code](https://developer.cisco.com/docs/nexus-as-code/introduction/) - Data-driven approach to NDFC/ACI and traditional Nexus implementations
 * [terraform-provider-aci](https://github.com/CiscoDevNet/terraform-provider-aci) - Official Cisco Terraform Provider for ACI
 * [terraform-provider-thousandeyes](https://github.com/thousandeyes/terraform-provider-thousandeyes) - Official Terraform Provider for Cisco ThousandEyes
 
