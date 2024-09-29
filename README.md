@@ -14,7 +14,7 @@ List of useful and super-cool Cisco tools and libraries
 * [terraform-provider-thousandeyes](https://github.com/thousandeyes/terraform-provider-thousandeyes) - Official Terraform Provider for Cisco ThousandEyes
 
 ## SDKs
-* [Cisco ISE SDK](https://github.com/CiscoISE/ciscoisesdk) - Official Cisco ISE SDK
+* [ciscoisesdk](https://github.com/CiscoISE/ciscoisesdk) - Official Cisco ISE SDK
 * [genie parser](https://developer.cisco.com/docs/genie-docs/) - Genie parser that can parse output from CLI commands into data structures. Supports multiple vendors.
 * [thousandeyes-sdk-python](https://github.com/thousandeyes/thousandeyes-sdk-python) - Official Python SDK for Cisco ThousandEyes
 
